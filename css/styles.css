@@ -2,3 +2,7 @@ body {
   background-image: url("https://wallpaperaccess.com/full/3014596.jpg");
   background-size: cover;
 }
+.up-box{ width:900px;
+  float:right;
+  border:1px solid none;
+}
